@@ -1,0 +1,21 @@
+/* dentro de estilo.css */
+.highlight {
+    background-color: rgb(145, 255, 0);
+ }
+
+ .error {
+    background-color: lightcoral;
+    border-color: red;
+ }
+ body
+{ 
+    
+    background-image: url("luffy.jpeg");
+    background-position: 50% 50%; 
+    background-repeat: no-repeat;
+ }
+
+ body{
+
+   text-align: center;
+ }
